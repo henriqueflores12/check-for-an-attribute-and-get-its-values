@@ -9,3 +9,4 @@ if (firstItem.hasAttribute("class")) {
 
   el.innerHTML = "<p>the first item has a class name: " + attr + "</p>";
 }
+console.log(document);

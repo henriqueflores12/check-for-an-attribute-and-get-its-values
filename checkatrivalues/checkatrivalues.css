@@ -45,3 +45,10 @@ body {
     display: grid;
     justify-content: center;
   }
+  #scriptResults{
+    border: whitesmoke solid 2px;
+    border-radius: 50px;
+    height: 200px;
+    width: 800px;
+    background-color: grey;
+  }
